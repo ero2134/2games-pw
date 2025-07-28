@@ -1,0 +1,1008 @@
+[2020-09-07 03:21:41] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 211042
+    [shop_order_id] => 
+    [payway] => piastrix_terminal_rub
+)
+
+[2020-09-07 03:22:42] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 211042
+    [shop_order_id] => 9I1WYGK7ZZ
+    [payway] => piastrix_terminal_rub
+)
+
+[2020-09-07 03:25:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 54MC1F1M8O
+    [payway] => piastrix_terminal_rub
+)
+
+[2020-09-07 03:26:58] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => CPH2WR2Q1H
+    [payway] => mts_rub
+)
+
+[2020-09-07 03:27:02] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => G0CI9R1S83
+    [payway] => terminal_rub
+)
+
+[2020-09-07 03:27:31] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 723L1ATP2Z
+    [payway] => terminal_rub
+)
+
+[2020-09-07 03:28:52] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 4IVF5826Y3
+    [payway] => megafon_rub
+)
+
+[2020-09-07 03:28:55] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => I4W6WB3G8A
+    [payway] => terminal_rub
+)
+
+[2020-09-07 03:29:11] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 68C8M1BJ1G
+    [payway] => tele2_rub
+)
+
+[2020-09-07 03:29:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => YEP805SW55
+    [payway] => megafon_rub
+)
+
+[2020-09-07 03:29:18] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 9LOI0B859I
+    [payway] => yamoney_rub
+)
+
+[2020-09-07 03:29:23] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 8J8387F5XA
+    [payway] => payeer_rub
+)
+
+[2020-09-07 03:29:54] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 2K87W66RY1
+    [payway] => yamoney_rub
+)
+
+[2020-09-07 03:29:59] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => ZUKI0A91JS
+    [payway] => card_rub
+)
+
+[2020-09-07 03:30:02] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 96T4B34NX5
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 03:30:09] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1N4OESX222
+    [payway] => beeline_rub
+)
+
+[2020-09-07 03:30:12] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => B7I37FNY74
+    [payway] => mts_rub
+)
+
+[2020-09-07 03:30:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => D0QJA24KCR
+    [payway] => megafon_rub
+)
+
+[2020-09-07 03:30:17] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => J5CEF644H2
+    [payway] => tele2_rub
+)
+
+[2020-09-07 03:30:19] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 2Q72805Y12
+    [payway] => terminal_rub
+)
+
+[2020-09-07 03:30:36] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => N79T5T2TO5
+    [payway] => alfaclick_rub
+)
+
+[2020-09-07 03:33:06] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1H823IWPG5
+    [payway] => alfaclick_rub
+)
+
+[2020-09-07 03:33:07] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => VYK2GX96HG
+    [payway] => alfaclick_rub
+)
+
+[2020-09-07 03:33:11] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 93D5860M7J
+    [payway] => mts_rub
+)
+
+[2020-09-07 03:33:18] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 2841SD2OD8
+    [payway] => yamoney_rub
+)
+
+[2020-09-07 03:33:20] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 6OWP5I0IHN
+    [payway] => yamoney_rub
+)
+
+[2020-09-07 03:33:22] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1350Y3IMCU
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:33:25] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 814Y33V31O
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:33:37] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => TO02BE7103
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:33:37] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => X495M07V23
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:33:38] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 589VV57K36
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:35:21] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1118895404
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:35:36] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => C32B70D235
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:39:08] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => TZ3DGB04C7
+    [payway] => megafon_rub
+)
+
+[2020-09-07 03:39:11] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 5087996YS0
+    [payway] => tele2_rub
+)
+
+[2020-09-07 03:39:15] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 9703FF82G6
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 03:39:18] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => S62YC12N6Z
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 06:49:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => GV8CW24EK8
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 06:49:18] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 4ETOX291QO
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 06:49:58] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 5D1R7G43V4
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 06:51:22] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => NV016M4BZ5
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 06:58:43] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => Z7E967E32F
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 06:59:16] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 93039SC3Q9
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 07:00:46] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => OBESDE66M9
+    [payway] => mts_rub
+)
+
+[2020-09-07 07:02:42] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => S6NF3063DV
+    [payway] => mts_rub
+)
+
+[2020-09-07 07:02:43] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 40QJG5080Z
+    [payway] => mts_rub
+)
+
+[2020-09-07 07:02:49] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 661105YDXH
+    [payway] => qiwi_rub
+)
+
+[2020-09-07 07:04:45] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 2693R7V501
+    [payway] => beeline_rub
+)
+
+[2020-09-07 07:04:46] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => D6P788E5UH
+    [payway] => beeline_rub
+)
+
+[2020-09-07 07:04:51] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 091RE8UC56
+    [payway] => beeline_rub
+)
+
+[2020-09-07 07:04:55] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 95J5LJF25B
+    [payway] => mts_rub
+)
+
+[2020-09-07 07:04:59] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => U9LAM47FOL
+    [payway] => megafon_rub
+)
+
+[2020-09-07 07:05:02] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => G29H8KW8V5
+    [payway] => tele2_rub
+)
+
+[2020-09-07 07:05:04] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 03GT0IM1H9
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:05:10] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 30X5K0S3VG
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:05:17] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 40G1GTAZQ9
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:06:09] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => EW3C72QX3Q
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:07:53] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 2R506XT7RT
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:08:21] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 719T17PA4P
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:08:35] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => U55H296D72
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:08:53] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => V5S61JJST6
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:17] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1U20SW5ABQ
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:22] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => BSA01L370M
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:24] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1IQ325SBZ6
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:38] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 21EO0271C1
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:40] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => NZD429E443
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:42] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 6SH22OP1AE
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:49] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => W9VDJ45012
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:51] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => CWJ2F27S08
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:11:52] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => W247D10KP6
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:12:07] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 8FAE7NP32W
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:12:09] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => B13955IUY8
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:12:10] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => DYX6L874U1
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:12:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 05WH6VS4XZ
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:12:19] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => LLK7630D5C
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:12:21] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1M2YX31CGG
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:20:43] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 6A864994PY
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:20:48] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => CE2U14XN04
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:20:50] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 0SXALJ90R2
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:20:52] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 98N5P137N5
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:20:53] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => I6CXEZ94S1
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:20:55] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 779R5WU5KZ
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:22:57] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => LJCBX13834
+    [payway] => perfectmoney_usd
+)
+
+[2020-09-07 07:23:13] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => T5WMI108FX
+    [payway] => terminal_rub
+)
+
+[2020-09-07 07:23:36] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 6ZIQW8N29I
+    [payway] => alfaclick_rub
+)
+
+[2020-09-17 00:37:53] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 1F005U6446
+    [payway] => card_rub
+)
+
+[2020-09-17 00:38:49] Array
+(
+    [amount] => 100
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 6R6V9WI856
+    [payway] => card_rub
+)
+
+[2020-09-17 00:38:54] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 20Y92ZI4NO
+    [payway] => alfaclick_rub
+)
+
+[2020-09-17 17:13:58] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => G82822UFGS
+    [payway] => card_rub
+)
+
+[2020-09-17 17:14:12] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => H83P0E9XNK
+    [payway] => qiwi_rub
+)
+
+[2020-09-17 17:14:18] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => P4EJ8S3CH9
+    [payway] => yamoney_rub
+)
+
+[2020-09-17 17:14:23] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => OV807HB54K
+    [payway] => payeer_rub
+)
+
+[2020-09-22 23:58:49] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => F0625R0NGA
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:58:49] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => M5DN769Y36
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:58:57] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => M7Q36Z129B
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:58:57] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 36MPZKP676
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:58:58] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 2AQWZ7D401
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:58:58] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => GQD3V332WZ
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:59:10] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 66GX953R8F
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:59:10] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => VA3E9JWS4J
+    [payway] => mts_rub
+)
+
+[2020-09-22 23:59:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 87D5P7A218
+    [payway] => tele2_rub
+)
+
+[2020-09-22 23:59:14] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => F1DG73G175
+    [payway] => tele2_rub
+)
+
+[2020-09-22 23:59:19] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 7480B1B6JX
+    [payway] => qiwi_rub
+)
+
+[2020-09-22 23:59:19] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 89M8S954W7
+    [payway] => qiwi_rub
+)
+
+[2020-09-24 20:22:53] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => U5L3IYO713
+    [payway] => qiwi_rub
+)
+
+[2020-09-24 20:22:53] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => I4F3QOA9VT
+    [payway] => qiwi_rub
+)
+
+[2020-09-24 20:23:42] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 74OC0I3VR4
+    [payway] => qiwi_rub
+)
+
+[2020-09-24 20:23:42] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => J6APOTL9TE
+    [payway] => qiwi_rub
+)
+
+[2020-09-25 11:14:49] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => R9EKCEBXG3
+    [payway] => qiwi_rub
+)
+
+[2020-09-25 11:14:49] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => IDXG28KAX0
+    [payway] => qiwi_rub
+)
+
+[2020-09-29 20:43:03] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 5486A069YV
+    [payway] => qiwi_rub
+)
+
+[2020-09-29 20:43:03] Array
+(
+    [amount] => 500
+    [currency] => 643
+    [shop_id] => 456
+    [shop_order_id] => 0KWV7GOT8T
+    [payway] => qiwi_rub
+)
+

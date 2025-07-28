@@ -1,0 +1,60 @@
+1. System requirements.
+The casino script runs on Ubuntu 16.04
+Since the script is in laravel, the root directory is public
+The script works on apache 2.4 and higher, mysql 5.7 and higher, php 7.2, ioncube extensions, and nodejs 12 version must be installed for the games to work.
+Recommended at least 4GB of RAM, 3 cores, at least 30GB of space.
+
+2. Installation, import of the database.
+Import the database into mysql, after that in the .env file you need to register access to the database and the site url, as well as access to the database in config / database.php and public / config_db.php
+You need to specify the url of your site in public / .htaccess
+You need to open port 8449 if it is closed (by default in ubuntu 16.04 it is open) and in public / socket_config.json write your domain in the 2games.pw format without www and http
+example
+{
+"port": 8449,
+"host": "2games.pw",
+"prefix": "http: //",
+"host_ws": "2games.pw",
+"prefix_ws": "ws: //",
+"ssl": false
+}
+
+3. Installing nodejs on Ubuntu 16.04, required for the amatic and playtech games to work.
+Link to installation instructions https://www.rosehosting.com/blog/how-to-install-node-js-on-ubuntu-16-04/
+Or just run the following commands in the console
+apt-get install curl
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+apt-get install nodejs
+you can check if node js is installed with the command
+nodejs -v
+Should show version 12
+Next, you need to run server.js which is located in the PTWebSocket folder
+Do the following, install pm2
+npm install -g ws
+npm install -g request
+npm install pm2 -g
+Next, go to the PTWebSocket folder and execute the command 
+pm2 start server.js
+pm2 startup
+pm2 save
+
+4. To operate a casino with an ssl certificate over a secure https connection, you need to perform several other steps
+In the .env file, specify the address with https instead of http, example https://2games.pw
+The public / .htaccess file is the same
+
+In public / socket_config.json the file should look like this
+{
+"port": 8449,
+"host": "2games.pw",
+"prefix": "https: //",
+"host_ws": "2games.pw",
+"prefix_ws": "wss: //",
+"ssl": true
+}
+We change the prefixes by adding s, as well as for ssl we set true
+
+After that, go to the PTWebSocket / ssl / folder, there you will see 2 files crt.crt and key.key
+In crt.crt, copy the certificate code, and in key.key, the private key of the certificate
+Now you need to run the script, go to the console in the / PTWebSocket / folder and run the command pm2 start server.js --watch
+After the steps taken, the site should work over a secure connection
+Installation is complete, if you have any problems, we will help you solve them. A common problem is the wrong owner of files and folders, depending on the control panel used.
+folders and files must be owned by either root or www-root

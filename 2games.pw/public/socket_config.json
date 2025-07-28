@@ -1,0 +1,14 @@
+{
+"port":9032,
+"host":"demo32.2games.pw",
+"prefix":"http://",
+
+"host_ws":"demo32.2games.pw",
+"prefix_ws":"ws://",
+
+"ssl":false
+
+
+
+
+}

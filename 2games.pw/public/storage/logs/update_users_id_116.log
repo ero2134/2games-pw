@@ -1,0 +1,45 @@
+[2020-08-21 16:24:29] 
+			update 
+				w_users 
+			set
+				balance = balance + 500,
+				payin = 500,
+				total_balance = total_balance + 500, 
+				payed_spins = 255, 
+				can_outpay = '1'
+				, garant='0'
+				, points = points + 500
+				
+			where 
+				id = '116'
+		
+[2020-08-21 16:42:33] 
+			update 
+				w_users 
+			set
+				balance = balance + 100,
+				payin = 100,
+				total_balance = total_balance + 100, 
+				payed_spins = 255, 
+				can_outpay = '1'
+				, garant='0'
+				, points = points + 100
+				
+			where 
+				id = '116'
+		
+[2020-08-21 16:42:33] 
+			update 
+				w_users 
+			set
+				balance = balance + 250,
+				payin = payin,
+				total_balance = total_balance + 0, 
+				payed_spins = 255, 
+				can_outpay = '1'
+				
+				
+				
+			where 
+				id = '116'
+		

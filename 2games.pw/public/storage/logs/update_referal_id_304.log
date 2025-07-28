@@ -1,0 +1,15 @@
+[2020-12-14 21:37:42] 
+			update 
+				w_users 
+			set
+				balance = balance + 500,
+				payin = 500,
+				total_balance = total_balance + 500, 
+				payed_spins = 255, 
+				can_outpay = '1'
+				, garant='0'
+				, points = points + 500
+				
+			where 
+				id = '304'
+		

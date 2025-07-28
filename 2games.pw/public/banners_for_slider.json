@@ -1,0 +1,51 @@
+{
+	"status": "ok",
+	"data": {
+		"authorized": false,
+		"currentParams": {
+			"locale": "ru",
+			"isMobile": false
+		},
+		"banners": [{
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/zshu368ohobxt4f2dewh",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/ecpepo1lmmd8fhigzfla",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/qxvz1i4zugd12rxmzag1",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/wl9hdqbof92ibfhf40dr",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/a5clgz8twsmh2rz8bigl",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/upewtlx1obpppped6g5b",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/tjgudghvxydqi7mtxc7h",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/obv0rwp79bpsx49t4ruj",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/aar14wjcptqp4smpkhxb",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/f8ibrvjfldgxwiqh9uoz",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/hzlz1vppnzbeuatknc31",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/zl5esg09ir1cyaqonkjh",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/tufca8fud477eopt5n1v",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/rc1c2ku6za6h1utlgbwz",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/fsdkizz0bgtoewj3uvjv",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/n8ur93vaxie4kgxmmeiz",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/j0kuiojt0lcfksx2ixxh",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/ajcryf1sjuiujlvaowbl",
+			"link": "#"
+		}, {
+			"img": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/3M3Bqml_RMke",
+			"previewImg": "https:\/\/picture-storage.com\/dyeppgkob\/image\/upload\/f_auto\/pf\/jKTKt5zVdemJ",
+			"link": "#"
+		}]
+	}
+}

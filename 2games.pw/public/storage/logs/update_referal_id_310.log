@@ -1,0 +1,15 @@
+[2021-01-04 09:25:03] 
+			update 
+				w_users 
+			set
+				balance = balance + 100,
+				payin = payin,
+				total_balance = total_balance + 0, 
+				payed_spins = 255, 
+				can_outpay = '1'
+				, garant='0'
+				
+				
+			where 
+				id = '310'
+		
